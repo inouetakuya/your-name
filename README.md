@@ -30,4 +30,4 @@ yarn run serve:api
 yarn run serve:ng
 ```
 
-open http:localhost:4200
+open [http://localhost:4200](http://localhost:4200)
